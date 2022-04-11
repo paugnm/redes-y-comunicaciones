@@ -1,6 +1,6 @@
 # Práctica 1
 ---
-#### ¿Qué es una red? ¿Cuál es el principal objetivo para construir una red?
+### ¿Qué es una red? ¿Cuál es el principal objetivo para construir una red?
 Una red de computadoras es un conjunto de computadoras/dispositivos conectados con el objetivo de **compartir recursos** (dispositivos, información, servicios, etc).
 
 #### ¿Qué es Internet? Describa los principales componentes que permiten su funcionamiento.
