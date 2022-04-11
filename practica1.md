@@ -95,7 +95,7 @@ La capa de red de Internet incluye el conocido protocolo IP. Existe un único pr
 La capa de acceso a la red es la primera capa de la pila TCP/IP. Ofrece la capacidad de acceder a cualquier red física, es decir, brinda los recursos que se deben implementar para transmitir datos a través de la red.
 
 ### Compare el modelo OSI con la implementación TCP/IP
-![Capas del modelo TCP/IP y OSI](img\osi-tcp.jpg)
+![Capas del modelo TCP/IP y OSI](img/osi-tcp.jpg)
 #### Similitudes:
 - Ambos se dividen en capas.
 - Ambos tienen capas de aplicación, aunque incluyen servicios distintos
