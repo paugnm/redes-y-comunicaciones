@@ -1,2 +1,2 @@
 # Redes y comunicaciones
-Resolución de las prácticas de RyC2022
+Resolución de las prácticas de RyC 2022
